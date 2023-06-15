@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Receiver App</string>
+    <string name="your_name">Your name</string>
+    <string name="back_to_app">Back to app</string>
+</resources>
